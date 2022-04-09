@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="black" type="color">#FF000000</item>
+    <item name="white" type="color">#FFFFFFFF</item>
+    <item name="trans" type="color">#00000000</item>
+    
+    <item name="gray77" type="color">#FF777777</item>
+    <item name="grayCC" type="color">#FFCCCCCC</item>
+    
+    <item name="blue1" type="color">#FFBBBBFF</item>
+    <item name="yellow1" type="color">#FFFFFFBB</item>
+    <item name="red1" type="color">#FFFF7777</item>
+    <item name="green1" type="color">#FFBBFFBB</item>
+    
+    <item name="blue2" type="color">#FF7777BB</item>
+    <item name="yellow2" type="color">#FFBBBB77</item>
+    <item name="red2" type="color">#FF992222</item>
+    <item name="green2" type="color">#FF77BB77</item>
+</resources>

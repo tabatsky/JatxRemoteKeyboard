@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">JatxRemoteKeyboard</string>
+
+    <string name="exit">Exit</string>
+    
+    <string name="string_ok">Ok</string>
+    <string name="string_exit">Exit</string>
+    <string name="string_close">Close</string>
+    <string name="string_input_host">IP-address of Daemon</string>
+    
+    <string name="daemon_win32">Daemon for Windows 32 bit</string>
+    <string name="daemon_win64">Daemon for Windows 64 bit</string>
+    <string name="dev_site">Developer Site</string>
+    <string name="review_app">Review App</string>
+
+    <string name="toast_empty_host">IP-address cannot be empty</string>
+</resources>

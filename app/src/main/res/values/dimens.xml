@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="action_bar_height">42dp</dimen>
+    <dimen name="action_bar_text_size">21dp</dimen>
+    
+    <dimen name="empty_1_width">14dp</dimen>
+    
+    <dimen name="exit_button_width">90dp</dimen>
+    
+    <dimen name="special_button_width">68dp</dimen>
+    <dimen name="special_button_text_size">12dp</dimen>
+    
+    <dimen name="dialog_min_width">240dp</dimen>
+	<dimen name="dialog_min_height">160dp</dimen>
+	<dimen name="dialog_empty_height">20dp</dimen>
+	
+	<dimen name="dialog_help_text_size">22dp</dimen>
+	<dimen name="dialog_help_padding">8dp</dimen>
+	<dimen name="dialog_help_min_width">360dp</dimen>
+
+</resources>

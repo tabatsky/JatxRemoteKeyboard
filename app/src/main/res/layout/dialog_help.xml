@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:minWidth="@dimen/dialog_help_min_width"
+    android:background="@color/white" >
+    
+    <TextView
+        android:id="@+id/review_app"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/dialog_help_text_size"
+		android:textColor="@color/black"
+		android:padding="@dimen/dialog_help_padding"
+		android:text="@string/review_app"
+		/> 
+    
+    <TextView
+        android:id="@+id/daemon_win32"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/dialog_help_text_size"
+		android:textColor="@color/black"
+		android:padding="@dimen/dialog_help_padding"
+		android:text="@string/daemon_win32"
+		/>    
+
+    <TextView
+        android:id="@+id/daemon_win64"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/dialog_help_text_size"
+		android:textColor="@color/black"
+		android:padding="@dimen/dialog_help_padding"
+		android:text="@string/daemon_win64"
+		/>
+    
+    <TextView
+        android:id="@+id/dev_site"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/dialog_help_text_size"
+		android:textColor="@color/black"
+		android:padding="@dimen/dialog_help_padding"
+		android:text="@string/dev_site"
+		/>
+    
+    <Button
+        android:id="@+id/help_close"
+        android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/dialog_help_text_size"
+		android:textColor="@color/black"
+		android:text="@string/string_close"
+		/>
+    
+</LinearLayout>
