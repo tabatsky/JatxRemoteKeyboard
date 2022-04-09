@@ -1,11 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="jatx.remotekeyboard.client"
-    android:versionCode="2"
-    android:versionName="1.0alpha2" >
-
-    <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="21" />
+    package="jatx.remotekeyboard.client" >
     
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WAKE_LOCK" />
